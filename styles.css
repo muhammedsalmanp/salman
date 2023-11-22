@@ -1,0 +1,418 @@
+.main{
+    width: 100%;
+    height: 150.8px;
+    background: rgb(255, 255, 255);
+    position: fixed;
+
+}
+
+.location{
+    width: 100%;
+    height: 30px;
+    background: rgb(255, 255, 255);
+    float: left;
+
+}
+.logo{
+    height: 18px;
+    width: 13px;
+    margin-right: 10px;
+    margin-top: -1px;
+    float: left;
+    padding-top: 9px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 35%;
+}
+
+.txt{
+    font-style: normal;
+    font-weight: 10px;
+    font-size: 19px;
+    color: #202124;
+    font-family: "National 2 Regular";
+    height: 32px;
+    padding-top: px;
+    line-height: 24px;
+    float: left;
+    margin-top: 3px;
+}
+.button1{
+
+  border-radius: 40px; 
+  border: none;
+  background-color: #000000; 
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 11px;
+  cursor: pointer;
+  margin-left: 3px;
+
+}
+
+
+.logo2{
+    background: #ffffff;
+    width: 254px;
+    height: 113px;
+    float: left;
+}
+.kfc{
+    width: 76px;
+    height: 23px;
+    margin-left: 133px;
+    margin-top: 43px;
+}
+.table{
+    margin-top: 51px;
+}
+.menu{
+    font-family: sans-serif;
+    font-size: larger;
+    padding-right: 21px;
+}
+.sing{
+    width: 99px;
+    height: 24px;
+    background: none;
+    border: none;
+    margin-right: auto;
+    float: right;
+}
+.singlog0{
+    width: 19px;
+    float: left;
+    height: 20px;
+    padding-right: 5px;
+}
+.singtxt{
+    width: 45px;
+    float: left;
+    padding-top: 3px;
+    font-size: 15px;
+}
+.bucketm{
+    width: 99px;
+    height: 24px;
+    background: none;
+    border: none;
+    margin-right: auto;
+    float: right;
+}
+.amount{
+    width: 21px;
+    float: left;
+    padding-left: 7px;
+    padding-top: 3px;
+    font-size: 15px;
+}
+.bucket{
+    width: 35px;
+    height: 35px;
+    float:right;
+}
+/*-------------order--------*/
+.order{
+    height: 68px;
+    width: 100%;
+    background: #000000;
+    color:rgb(255, 255, 255);
+    padding-top: 168px;
+
+}
+.ordermain{
+    width: px;
+    font-family: fantasy;
+    font-size: 23px;
+    margin: .5% auto;
+}
+.orderbutton{
+    order: none;
+    background: red;
+    color: white;
+    border-radius: 20px;
+    padding-right: 12px;
+    cursor: pointer;
+    width: 89px;
+    height: 28px;
+    margin-left: 20px;
+    text-align: center;
+    font-size: 11px;
+    border: none;
+}
+/*-----------ad img-----------*/
+.mainimg{
+    width: 100%;
+}
+.menubox{
+    width: 1186px;
+    height: 738px;
+    margin-left: 269px;
+    margin-top: -18px;
+    background: #ffffff;
+}
+.firsthead{
+    width: 1186px;
+    height: 213px;
+}
+
+.menuheadlinetext{
+    font-size: 29px;
+    font-family: fantasy;
+    line-height: 35px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    color: #000000;
+    float: left;
+    margin-top: 110px;
+    margin-bottom: 69px;
+
+}
+.line{
+    width: 884px;
+    height: 95px;
+    color: rgb(0, 0, 0);
+    float:left;
+    margin-top: 119px;
+    margin-left: 15px;
+}
+ /*-----------food menu-----------*/   
+.food{
+    width: 268px;
+    height: 268px;
+    border-radius: 4px;
+    background: rgb(250, 235, 240);
+    float: left;
+    margin: 8px;
+    cursor: pointer;
+
+
+}
+.foodimg{
+    width: 268px;
+    height: 213px;
+    border-radius: 4px;
+    
+}
+.foodtext{
+    padding-left: 25%;
+}
+.viewall{
+    padding-left: 68px;
+
+}
+/*-------------offers---------*/
+.offers{
+    width: 100%;
+    height: 622px;
+    margin-top: 137px;
+    background: #000000;
+}
+.offertitel{
+    font-size: 35px;
+    color: white;
+    font-family: monospace;
+    margin-left: 201px;
+    width: 300px;
+    height: 75px;
+    cursor: pointer;
+
+}
+.viewall2{
+    color: white;
+    float: right;
+    margin-top: -82px;
+    margin-right: 133px;
+    width: 153px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.offer1{
+    width: 310px;
+    height: 396px;
+    margin-top: 37px;
+    float: left;
+    background: #ffffff;
+    margin: 10px;
+    border-radius: 4px;
+    margin-left: 194px;
+}
+
+.offer2{
+    width: 310px;
+    height: 396px;
+    margin-top: 37px;
+    float: left;
+    background: #ffffff;
+    margin: 10px;
+    border-radius: 4px;
+}
+.offerimage1{
+    width: 310px;
+    height: 235px;
+    border-radius: 4px;
+
+}
+.offers-card-main{
+    width: 316px;
+    height: 85px;
+
+
+}
+.offer-card-head{
+    height: 43px;
+    width: 280px;
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 43px;
+    color: #e4002b;
+    text-transform: uppercase;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-align: center;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+        
+    
+}
+.offer-text{
+    width: 324px;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #202124;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-align: center;
+    margin-left: -6px;
+    align-items: center;
+}
+.forbutton{
+    width: 310px;
+    height: 86px;
+    background: #ffffff;
+    align-items: center;
+    padding-top: 15px;
+    border-radius: 4px;
+}
+.viewbutton{
+    cursor: pointer;
+    width: 109.7px;
+    height: 28px;
+    font-family: sans-serif;
+    color: black;
+    background: white;
+    border: none;
+    font-size: 15px;
+    margin-left: 16px;
+    padding-top: 31px;
+}
+.Redeembutton{
+    cursor: pointer;
+    width: 100.7px;
+    height: 28px;
+    font-family: sans-serif;
+    color: black;
+    background: white;
+    border-radius: 20px;
+    font-size: 17px;
+    margin-left: 39px;
+    box-shadow: #000000;
+}
+/*--------------foterlogo-----------*/
+.footer{
+    height: 294px;
+    width: 100%;
+    background: #000000;
+    float: left;
+
+}
+.footerlogo{
+    height: 50px;
+    width: 20px;
+    padding-left: 125px;
+
+}
+.footerimg{
+    height:60px ;
+    width: 60px;
+}
+.footertable{
+    width: 556px;
+    height: 15px;
+    color: rgb(255, 255, 255);
+    margin-left: 303px ;
+    font-family:sans-serif;
+    font-size: 14px;
+    cursor: pointer;
+
+}
+.table{
+    width: 120px;
+    height: 29px;
+    padding-right: 10px;
+}
+.findlogo{
+    float: right;
+    margin-top: -53px;
+    margin-right: 579px;
+}
+.findkfc{
+    float: right;
+    margin-top: -50px;
+    margin-right: 500px;
+    color: #ffffff;
+    font-family:sans-serif;
+    font-size: 13px;
+    cursor: pointer;
+}
+.play{
+    float: right;
+    margin-top: -53px;
+    margin-right: 258px;
+    color: #ffffff;
+    font-family: sans-serif;
+    font-size: 13px;
+    cursor: pointer;
+    width: 167px;
+    height: 56px;
+}
+.apple{
+    float: right;
+    margin-top: -78px;
+    margin-right: -290px;
+    color: #ffffff;
+    font-family: sans-serif;
+    font-size: 13px;
+    cursor: pointer;
+    width: 127px;
+    height: 129px;
+}
+.Copyright{
+    color: white;
+    margin-left: 606px;
+    margin-top: 188px;
+    font-size: 12px;
+    font-family: sans-serif;
+    line-height: -15px;
+}
+.Insta{
+    float: right;
+    margin-top: -43px;
+    margin-right: 194px;
+}
+.fb{
+    float: right;
+    margin-top: -43px;
+    margin-right: 159px;
+}
+.tw{
+    float: right;
+    margin-top: -43px;
+    margin-right: 119px;
+}
